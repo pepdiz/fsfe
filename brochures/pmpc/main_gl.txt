@@ -1,0 +1,141 @@
+\documentclass[10pt,foldmark,tumble]{leaflet}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+\usepackage{url}
+\usepackage{graphicx,txfonts}
+\usepackage[dvipsnames,usenames]{color}
+\usepackage{dirtytalk}
+
+\usepackage[framemethod=TikZ]{mdframed}
+\mdfdefinestyle{MyFrame}{%
+    linecolor=blue,
+    outerlinewidth=2pt,
+    roundcorner=20pt,
+    innertopmargin=\baselineskip,
+    innerbottommargin=\baselineskip,
+    innerrightmargin=20pt,
+    innerleftmargin=20pt,
+    backgroundcolor=gray!30!white}
+
+\newcommand{\love}{\ensuremath\varheartsuit\ }
+
+\CutLine*{1}% Dotted line without scissors
+\CutLine*{6}
+%%\CutLine{6}%  Dotted line with scissors
+
+%%\AddToBackground{6}{%  Background of a small page
+%%  \put(0,0){\textcolor{Cyan}{\rule{\paperwidth}{\paperheight}}}}
+
+
+\begin{document}
+
+\includegraphics[scale=1.5]{pmpc.png}
+
+\vspace{2em}
+
+\begin{mdframed}[style=MyFrame]
+\say{\textit{Queremos unha lexislación que esixa que o software desenvolvido para o sector público, e financiado con fondos públicos, estea dispoñible públicamente baixo unha licenza de Software Libre e de Código Abierto. Si é diñeiro público, o código tamén
+debería de ser público.
+O código pagado polos cidadáns debería estar dispoñible para os
+ciudadáns!}}
+\end{mdframed}
+
+\vspace{2em}
+¿Crees que el Software Libre debe ser la opción principal para el software financiado públicamente? Necesitamos convencer a los políticos que nos representan!
+
+\vspace{3em}
+
+
+\section{\includegraphics{item.png}Razóns para que o código sexa público}
+
+\subsection{Aforrar impostos}
+
+Programas parecidos non teñen que escribirse dende cero unha y outra vez.
+
+\subsection{Colaboración}
+
+Nos grandes proxectos se poderían compartir coñecementos e reducir custos.
+
+\subsection{Ó servizo de todos}
+
+Os programas pagados entre todos deberían estar dispoñibles para todos.
+
+\subsection{Fomentar a innovación}
+
+Con procesos transparentes ninguén ten que reinventar a roda.
+
+\vspace{1em}
+
+O software pagado con cartos públicos ten que ser Software Libre e de Código Aberto. Ainda que abondan as boas razóns para isto, moitos e moitas representantes políticos non saben delas todavía.
+
+\vspace{2em}
+
+\begin{mdframed}[style=MyFrame]
+\say{\textit{O Software Libre dálle a todo o mundo o dereito de usar, estudar, compartir e mellorar o software. Este dereito axuda a soster outras liberdades fundamentais, como a liberdade de expresión, a de prensa ou a privacidade}}
+\end{mdframed}
+
+
+\vspace{2em}
+
+Aquí é onde ti podes axudar! Asina esta carta aberta para darlle máis forza á nosa mesaxe. 18302 persoas e 152 organizacións xa teñen firmado. Entregarémoslles a carta e máis as sinaturas a os teus representantes e asegurarémonos de que entedan isto: Cartos Públicos? Código Público!
+
+
+
+\section{\includegraphics{item.png}Carta Aberta}
+
+Na nosa carta aberta demandamos:
+
+\textit{Promulguen leis que requiran que o software financiado con fondos públicos, e desenvolvido para o sector público, sexa posto a disposición pública baixo unha licenza de Software Libre e de Código Aberto}
+
+152 organizacións e 18302 persoas responderon a esta petición de axuda asinando a nosa carta aberta. Asinandoa ti podes axudarnos a que teña aínda máis impacto! Entregaremos tódalas sinaturas a representantes políticos de toda Europa que están debatendo sobre o software libre na administración pública.
+
+\vspace{1em}
+  \subsection{ Cartos públicos? Código Público!}
+\vspace{.5em}
+
+    Os servizos dixitais que ofrecen e usan as nosas administracións públicas son as infraestructuras críticas das nacións democráticas do século XXI. Para que estes sistemas sexan de confianza, os entes públicos débense asegurar de teren pleno control sobre o software e os sistemas informáticos que operan no núcleo da infraestructura dixital do noso país. Nembargantes, a día de hoxe, isto é a excepción debido as licenzas de software restritivas que:
+
+\begin{itemize}
+    \item Prohíben compartir e trocar código pagado con cartos públicos. Esto impide a cooperación entre administracións públicas e dificulta que ese código teña máis desenvolvemento.
+    \item Fortalecen os monopolios a o dificultar a competitividade. Como consecuencia moitas administracións pasan a depender dun feixe de empresas.
+    \item Supoñen unha ameaza á seguridade da nosa infraestructura dixital ó prohibir o acceso ó código fonte. Isto fai extremadamente difícil, senón imposible, atopar portas traseiras e buratos de seguridade.
+\end{itemize}
+
+    Precisamos software que fomente compartir as boas solucións e as boas ideas. Deste xeito seremos quen de mellorar os servizos públicos baseados nas tecnoloxías da información de toda Europa. Precisamos software que garantice libre elección, libre acceso e libre competencia. Precisamos software que axude ás administracións públicas a recuperar o control da súa infraestructura dixital crítica, permitíndolles facerse e manterse independentes daquel fato de empresas. Pedimos ás nosas e ós nosos representantes que apoien o Software Libre e de Código Aberto nas administracións públicas porque:
+
+\begin{itemize}
+    \item O Software Libre e de Código Aberto é un ben público moderno que permite libremente a calquera usar, estudar, compartir e mellorar os programas informáticos que usamos a diario.
+    \item As licenzas de Software Libre e de Código Aberto protéxennos de ficar cativos dos servizos de determinadas empresas que usan licenzas restritivas para dificultar a competencia.
+    \item O Software Libre e de Código Aberto garantiza que o código fonte sexa accesible para que tanto as portas traseiras coma os buratos de seguridade se poidan amañar sen depender dun único provedor.
+\end{itemize}
+
+
+    Os entes públicos se financian con impostos e deben de se asegurar de que empregan eses cartos da forma máis eficiente posible. Se os cartos son públicos, o código tamén debería ser público!
+
+    Por isto, os e as abaixo firmantes, pedimos a quen nos representan que:
+
+    \emph{Promulguen leis que requiran que o software financiado con fondos públicos e desenvolvido para o sector público, deba estar dispoñible públicamente baixo unha licenza de Software Libre e de Código Aberto}.
+
+
+\newpage
+
+\vspace{15em}
+
+
+\includegraphics[scale=1.6]{pmpc.png}
+
+\vspace{1em}
+
+\centering \includegraphics[scale=0.2]{fsfe.pdf}
+
+\newpage
+\section{\includegraphics{item.png}Organizacións firmantes}
+\vspace{1em}
+\includegraphics[scale=0.40]{colab.png}
+
+
+%%\centering \includegraphics[scale=0.45]{logo.pdf} \\
+%%\centering \Huge \url{fsfe.org}
+
+
+\end{document}
